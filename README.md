@@ -65,3 +65,16 @@
 * Inside Page Links
 
 
+
+## PREREQUSITE
+* NODE  10
+* REACT-NATIVE  0.57
+* VSCODE 
+* VSCODE EXTENSION - React Native Tools
+
+* Enable Hot Reloading
+* Enable Remote Debugging
+
+* AN EMULATOR
+
+
