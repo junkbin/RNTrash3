@@ -4,12 +4,12 @@
 * EXTERNAL
 * LIFECYCLE & STATE
 * EVENT LISTERNER
+* Native Base
+* Multiple Component
+* Navigation
 * ICONS 
 * ANIMATION
 * CSS Transition.
-* Multiple Component
-* Native Base
-* Navigation
 * Splash 
 * Move from one screen to another. 
 * Share data across screen.
