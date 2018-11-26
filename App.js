@@ -25,8 +25,8 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to React Native!</Text>
-        <Button color='teal' title='Click Mee' onPress={this.clickMee}></Button>
+        <Text style={styles.welcome}>Welcome!</Text>
+        <Button  title='Click Mee' onPress={this.clickMee}></Button>
       </View>
     );
   }
